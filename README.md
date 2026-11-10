@@ -51,7 +51,7 @@ I am particularly interested in Decision Science, Customer Analytics, Financial 
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, SVM
 
-[View Project](./Fraud-Transaction-Detector)
+[View Project](.//Fraud-Transaction-Detector)
 
 ---
 
