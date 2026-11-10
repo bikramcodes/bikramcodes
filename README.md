@@ -67,7 +67,7 @@ I am particularly interested in Decision Science, Customer Analytics, Financial 
 
 **Tech Stack:** Python, Pandas, Seaborn, Scikit-learn, Logistic Regression
 
-[View Project](./bank-marketing-optimization)
+[View Project](https://github.com/bikramcodes/bank-marketing-optimization)
 
 ---
 
@@ -83,7 +83,7 @@ I am particularly interested in Decision Science, Customer Analytics, Financial 
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, K-Means
 
-[View Project](./credit-card-spend-segmentation)
+[View Project](https://github.com/bikramcodes/credit-card-spend-segmentation)
 
 ---
 
@@ -99,7 +99,7 @@ I am particularly interested in Decision Science, Customer Analytics, Financial 
 
 **Tech Stack:** MS SQL Server, SQL, Python, Statistical Testing
 
-[View Project](./ab-testing-sql-project)
+[View Project](https://github.com/bikramcodes/ab-testing-sql-project)
 
 ---
 
@@ -115,7 +115,7 @@ I am particularly interested in Decision Science, Customer Analytics, Financial 
 
 **Tech Stack:** Python, Pandas, Statsmodels, SARIMAX, Time Series Analysis
 
-[View Project](./Stock-Price-Prediction)
+[View Project](https://github.com/bikramcodes/Stock-Price-Prediction)
 
 ---
 
@@ -131,7 +131,7 @@ I am particularly interested in Decision Science, Customer Analytics, Financial 
 
 **Tech Stack:** Python, Pandas, Scikit-learn, NLP, Cosine Similarity
 
-[View Project](./movie-recommendation-system)
+[View Project](https://github.com/bikramcodes/movie-recommendation-system)
 
 ---
 
