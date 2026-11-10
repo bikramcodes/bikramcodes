@@ -1,4 +1,5 @@
 <img width="2048" height="768" alt="Modern Data Analyst Portfolio Banner" src="https://github.com/user-attachments/assets/b5098a5a-8a69-4c27-b17b-f4310791a1bf" />
+
 # Hi, I'm Bikram Singh 👋
 
 ### Data Analyst | SQL | Python | Power BI | Tableau | Statistical Analysis
